@@ -1,0 +1,1 @@
+En este ejercicio se hace un formulario con tres campos, nombre, email y contraseña. El PasswordField es igual que un TextField pero muestra circulitos en vez del texto. Al pulsar el botón comprueba con isEmpty() y trim() que ningún campo esté vacío y muestra un mensaje según el resultado.
